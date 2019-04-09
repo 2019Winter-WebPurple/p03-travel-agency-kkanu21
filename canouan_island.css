@@ -1,0 +1,28 @@
+/*
+* Krissy Kanu
+* April 9, 2019
+* Panda Travel Agency */
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body { background-color: lightcyan;
+
+}
+
+/*design of table*/
+table, td, th { border: 2px solid black; } 
+table { border-collapse: collapse; }
+thead { background-color: orange; }
+tbody { background-color: white}
+
+
+/*picture sizing and positioning*/
+#aerial { height: 500px; width: 700px; }
+#snorkeling { float: right; }
+#one { float: right; }
